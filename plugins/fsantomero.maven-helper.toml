@@ -1,0 +1,7 @@
+repository = "https://github.com/Santom24/openidea-maven-helper"
+suggest = ["pom.xml"]
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/Santom24/openidea-maven-helper/releases/download/v0.1.0/fsantomero.maven-helper-0.1.0.oiplugin"
+sha256 = "f8bbcabef62ba08c48f85b16b1c72640d202fb58da232b5a8b7b606ce288c3de"
